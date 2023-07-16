@@ -18,6 +18,15 @@
 ### Running the program:
 1. Save all the Python, .XML and .YML files in a folder.
 2. Create a sub-folder named "Dataset" in the same folder for storing all the face images.
-3. First, run faceCapturing.py
-4. Then, faceTraining.py
-5. And then, faceRecognition.py
+3. First, open the Terminal or Command Prompt from the folder and run faceCapturing.py
+   ```
+   python faceCapturing.py
+   ```
+5. Then, faceTraining.py
+   ```
+   python faceTraining.py
+   ```
+7. And then, faceRecognition.py
+   ```
+   python faceRecognition.py
+   ```
