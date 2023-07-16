@@ -1,4 +1,4 @@
-# Face_Recognition_Project
+# Facial Recognition Project
 
 ### What?
  + Created a **Face Detection and Recognition Security System** that can be used by IITH at the main gate to keep track of students.
